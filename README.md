@@ -1,4 +1,4 @@
-Toxicokinetic model for bisphenols in zebrafish embryo. Knime workflow and codes were written by Ioana Chelcea, Publication:Title: "Physiology-informed toxicokinetic model for the zebrafish embryo test developed for bisphenols" by Ioana Chelcea, Carolina Vogs, Timo Hamers, Jacco Koekkoek, Jessica Legradi, Maria Sapounidou, Stefan Örn,  Patrik L. Andersson
+Toxicokinetic model for bisphenols in zebrafish embryo. Knime workflow and codes were written by Ioana Chelcea, Publication Title: "Physiology-informed toxicokinetic model for the zebrafish embryo test developed for bisphenols" by Ioana Chelcea, Carolina Vogs, Timo Hamers, Jacco Koekkoek, Jessica Legradi, Maria Sapounidou, Stefan Örn,  Patrik L. Andersson. Published in Chemosphere 2023. All codes are under the Creative commons licence provided in the repository.
 
 Repository contains 3 files: 1. Knime workflow containing models and predictions (Chelcea_2023_ZFE_git.knwf), 2. Excel file containing model parameters (ZFE_parms_KNIME.xlsx), 3. R script containing Bayesian Inference example used for model parameter calibration (ZFE_Bayes_10k_widepriors.R)
 
